@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/manav-more-79b114228](https://www.linkedin.com/in/manav-more-79b114228/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/manav-more-79b114228]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/manav___2315"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/Manav2315"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
