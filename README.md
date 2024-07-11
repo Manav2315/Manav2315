@@ -1,6 +1,6 @@
 <!-- Your GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Manav 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Manav2315" target="_blank">Manav2315</a> 👋</h1>
 <h3 align="center">AI Developer | Deep Learning Enthusiast | Innovator</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <ul align="left">
   <li>📜 Python Basics for Data Science (edX, IBM)</li>
   <li>📜 Data Science Tools (edX, IBM)</li>
-  <li>📜 Data Analytics on AWS (edX, IBM)</li>
+  <li>📜 Data Analytics on AWS (edX, AWS)</li>
 </ul>
 
 <h3 align="left">Projects:</h3>
@@ -68,11 +68,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manav-more-79b114228"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/manav___2315"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/Manav2315"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/manav-more-79b114228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/manav___2315" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/Manav2315" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
-
-
-<!-- Replace [YourName], [YourUsername], [YourLinkedIn], [YourTwitter] with your details -->
