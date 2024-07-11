@@ -4,15 +4,15 @@
 <h3 align="center">AI Developer | Deep Learning Enthusiast | Innovator</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Manav2315]&show_icons=true&theme=radical" alt="Manav2315's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav2315&show_icons=true&theme=radical" alt="Manav2315's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Manav2315]&theme=radical" alt="[Manav2315]'s GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manav2315&theme=radical" alt="Manav2315's GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Manav2315]&color=blue" alt="[Manav2315]'s GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manav2315&color=blue" alt="Manav2315's GitHub profile views" />
 </p>
 
 <h3 align="left">About Me:</h3>
@@ -68,7 +68,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manav-more-79b114228/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/[YourLinkedIn]](https://www.linkedin.com/in/manav-more-79b114228/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/manav___2315"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/Manav2315"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
+
+
 
 <!-- Replace [YourName], [YourUsername], [YourLinkedIn], [YourTwitter] with your details -->
