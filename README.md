@@ -4,7 +4,7 @@
 <h3 align="center">AI Developer | Deep Learning Enthusiast | Innovator</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Manav2315]&show_icons=true&theme=radical" alt="[Manav2315]'s GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Manav2315]&show_icons=true&theme=radical" alt="Manav2315's GitHub stats" />
 </p>
 
 <p align="center">
