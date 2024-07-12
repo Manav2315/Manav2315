@@ -17,6 +17,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
+  <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
   I'm an AI developer passionate about leveraging the power of deep learning to solve real-world problems. With a B.E. in Information Technology from Zeal College of Engineering and Research, Pune, and a knack for developing innovative solutions, I'm on a mission to push the boundaries of what's possible with AI.
 </p>
 
