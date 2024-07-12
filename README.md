@@ -3,9 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Manav2315" target="_blank">Manav2315</a> 👋</h1>
 <h3 align="center">AI Developer | Deep Learning Enthusiast | Innovator</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manav2315&show_icons=true&theme=radical" alt="Manav2315's GitHub stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manav2315&theme=radical" alt="Manav2315's GitHub streak stats" />
