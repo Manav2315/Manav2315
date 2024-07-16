@@ -13,6 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=Manav2315&color=blue" alt="Manav2315's GitHub profile views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manav-more-79b114228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/manav___2315" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/Manav2315" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
+
 <h3 align="left">About Me:</h3>
 <p align="left">
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
@@ -66,9 +72,5 @@
   🌟 Let's connect and collaborate on exciting AI and deep learning projects! Feel free to explore my repositories and reach out if you have any questions or ideas.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manav-more-79b114228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/manav___2315" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/Manav2315" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
+
 
